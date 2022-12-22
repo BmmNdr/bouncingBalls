@@ -1,0 +1,38 @@
+﻿  main.cpp
+E:\Anni_Precedenti\21_Palline\Palline\Finestra.h(5,1): warning C4005: '_WIN32_WINNT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdkddkver.h(218): message : see previous definition of '_WIN32_WINNT'
+E:\Anni_Precedenti\21_Palline\Palline\Finestra.h(99,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\Finestra.h(120,15): warning C4101: 'szFileName': unreferenced local variable
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(57,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(57,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(57,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(57,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(64,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(64,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(64,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(64,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(71,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(71,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(71,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(71,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(78,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(78,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(78,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(78,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(85,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(85,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(85,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(85,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(91,18): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(175,18): warning C4244: 'initializing': conversion from '_Rep' to 'long', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+E:\Anni_Precedenti\21_Palline\Palline\main.cpp(183,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Palline.vcxproj -> E:\Anni_Precedenti\21_Palline\x64\Debug\Palline.exe
